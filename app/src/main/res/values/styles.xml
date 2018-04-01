@@ -1,0 +1,38 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.Default" parent="AppTheme">
+        <item name="colorPrimary">@color/primary_default</item>
+        <item name="colorPrimaryDark">@color/primary_default_dark</item>
+        <item name="colorAccent">@color/default_accent</item>
+    </style>
+
+    <style name="AppTheme.Halloween" parent="AppTheme">
+        <item name="colorPrimary">@color/primary_halloween</item>
+        <item name="colorPrimaryDark">@color/primary_dark_halloween</item>
+        <item name="colorAccent">@color/halloween_accent</item>
+    </style>
+
+    <style name="AppTheme.Sailor" parent="AppTheme">
+        <item name="colorPrimary">@color/primary_sailor</item>
+        <item name="colorPrimaryDark">@color/primary_dark_sailor</item>
+        <item name="colorAccent">@color/sailor_accent</item>
+    </style>
+
+    <style name="AppTheme.Autumn" parent="AppTheme">
+        <item name="colorPrimary">@color/primary_autumn</item>
+        <item name="colorPrimaryDark">@color/primary_dark_autumn</item>
+        <item name="colorAccent">@color/autumn_accent</item>
+    </style>
+
+    <style name="AppTheme.Fairytale" parent="AppTheme">
+        <item name="colorPrimary">@color/primary_fairytale</item>
+        <item name="colorPrimaryDark">@color/primary_dark_fairytale</item>
+        <item name="colorAccent">@color/fairytale_accent</item>
+    </style>
+
+</resources>

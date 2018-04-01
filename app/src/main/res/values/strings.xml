@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">UserProfileShowcase</string>
+
+    <string name="mode_flat">Flat mode</string>
+    <string name="mode_card">Card mode</string>
+    <string name="mode_fancy">Fancy mode</string>
+
+    <string name="theme_default">Default</string>
+    <string name="theme_halloween">Halloween</string>
+    <string name="theme_sailor">Sailor</string>
+    <string name="theme_autumn">Autumn</string>
+    <string name="theme_fairytale">Fairytale</string>
+
+    <string name="panda_description">The red panda (Ailurus fulgens), also called the lesser panda,
+        the red bear-cat, and the red cat-bear, is a mammal native to the eastern Himalayas and
+        southwestern China. It has reddish-brown fur,
+        a long, shaggy tail, and a waddling gait due to
+        its shorter front legs; it is roughly the size of
+        a domestic cat, though with a longer body and somewhat heavier.
+        It is arboreal, feeds mainly on bamboo, but also eats eggs, birds,
+        and insects. It is a solitary animal, mainly active from dusk to dawn,
+        and is largely sedentary during the day.</string>
+
+    <string name="theme_dialog_title">Select theme</string>
+    <string name="theme_dialog_negative">Cancel</string>
+    <string name="profile_name">Red Panda</string>
+</resources>
